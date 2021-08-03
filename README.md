@@ -1,4 +1,4 @@
-[![(https://raw.githubusercontent.com/RohanSengupta326/RohanSengupta326/main/icons/me.png "Header")]]
+[![](https://raw.githubusercontent.com/RohanSengupta326/RohanSengupta326/main/icons/me.png "Header")]
 - 👋 Hi, I’m Rohan Senugpta
 - 👀 I’m interested in back end web development, AR, AI, Voice assistants
 - 🌱 I’m currently learning Flask
