@@ -1,9 +1,9 @@
 # ![Rohan Sengupta Header](https://raw.githubusercontent.com/RohanSengupta326/RohanSengupta326/main/icons/me.png)
 
 # <p align='center'>
-<a href="https://twitter.com/rohan_sen132"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/rohaaansen/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rohan-sengupta-193bb916a/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/rohan_sen132"><img align='center' height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/rohaaansen/"><img align='center' height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rohan-sengupta-193bb916a/"><img align='center' height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 - 👋 Hi, I’m Rohan Senugpta
