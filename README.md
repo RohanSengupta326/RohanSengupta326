@@ -1,4 +1,4 @@
-# ![Rohan Sengupta Header align='right'](https://raw.githubusercontent.com/RohanSengupta326/RohanSengupta326/main/icons/me.png)
+# ![Rohan Sengupta Header]<a align='right'></a>(https://raw.githubusercontent.com/RohanSengupta326/RohanSengupta326/main/icons/me.png)
 - 👋 Hi, I’m Rohan Senugpta
 - 👀 I’m interested in back end web development, AR, AI, Voice assistants
 - 🌱 I’m currently learning Flask
