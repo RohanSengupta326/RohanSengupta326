@@ -7,7 +7,7 @@
 </p>
 
 Hi everyone! 
-I am a freshman CS Undergraduate student of Dr. Sudhir Chandra Sur Institute of Technology.
+I am a sophomore CS Undergraduate student of Dr. Sudhir Chandra Sur Institute of Technology.
 I have a keen interest in AR/VR as well as App Development. Currently learning app development with Flutter framework, have some knowledge about backend web dev with Flask. Apart from that, for my career, I wanna learn and work with real-life AI projects. 
 
 I have a liking for open-source contributions too. Also practicing problem solving on Leetcode. 
