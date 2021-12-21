@@ -9,9 +9,10 @@
 
 Hi everyone! 
 I am a sophomore CS Undergraduate student of Dr. Sudhir Chandra Sur Institute of Technology.
-I have a keen interest in AR/VR as well as App Development. Currently learning app development with Flutter framework, have some knowledge about backend web dev with Flask. Apart from that, for my career, I wanna learn and work with real-life AI projects. 
+Currently learning app development with Flutter framework, have some knowledge about backend web dev with Flask. Apart from that, for my career, I wanna learn and work with real-life AI projects, also have keen interest in Web development and Augmented Reality. 
 
-I have a liking for open-source contributions too. Also practicing problem solving on Leetcode. 
+I also contribute to open source, recently completed hacktoberfest 2021. 
+Also practicing problem solving with data structure and algorithms on Leetcode. 
 
 DM me for any kind of collaboration or opportunities. You can also reach me out at rohansengupta326@gmail.com
 
