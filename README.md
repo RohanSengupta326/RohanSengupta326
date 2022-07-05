@@ -8,8 +8,8 @@
 
 
 Hi everyone! 
-I am a sophomore CS Undergraduate student of Dr. Sudhir Chandra Sur Institute of Technology.
-Currently learning app development with Flutter framework, have some knowledge about backend web dev with Flask. Apart from that, for my career, I wanna learn and work with real-life AI projects, also have keen interest in Web development and Augmented Reality. 
+I am a Junior CS Undergraduate student of Dr. Sudhir Chandra Sur Institute of Technology.
+Currently developing with Flutter framework, have some knowledge about backend web dev with Flask. Apart from that, for my career, I wanna learn and work with real-life AI projects, also have keen interest in Web development and Augmented Reality. 
 
 I also contribute to open source, recently completed hacktoberfest 2021. 
 Also practicing problem solving with data structure and algorithms on Leetcode. 
