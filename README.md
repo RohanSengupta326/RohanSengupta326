@@ -9,9 +9,9 @@
 
 Hi everyone! 
 I am a Junior CS Undergraduate student of Dr. Sudhir Chandra Sur Institute of Technology.
-Currently developing with Flutter framework, have some knowledge about backend web dev with Flask. Apart from that, for my career, I wanna learn and work with real-life AI projects, also have keen interest in Web development and Augmented Reality. 
+Currently developing with Flutter framework, have some knowledge about backend web dev with Flask. I want to work in Mobile-Development field.
 
-I also contribute to open source, recently completed hacktoberfest 2021. 
+I also contribute to open source, completed hacktoberfest 2021. 
 Also practicing problem solving with data structure and algorithms on Leetcode. 
 
 DM me for any kind of collaboration or opportunities. You can also reach me out at rohansengupta326@gmail.com
