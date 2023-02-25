@@ -7,14 +7,34 @@
 
 
 
-Hi everyone! 
-I am a Junior CS Undergraduate student of Dr. Sudhir Chandra Sur Institute of Technology.
-Currently developing with Flutter framework, have some knowledge about backend web dev with Flask. I want to work in Mobile-Development field.
+Hi there! I'm Rohan, a passionate Computer Science and Engineering student currently pursuing my Bachelor's degree at Dr Sudhir Chandra Sur Institute of Technology. I specialize in C, C++, and Dart programming languages, as well as the Flutter and Flask frameworks. 
 
-I also contribute to open source, completed hacktoberfest 2021. 
-Also practicing problem solving with data structure and algorithms on Leetcode. 
+### Education
 
-DM me for any kind of collaboration or opportunities. You can also reach me out at rohansengupta326@gmail.com
+I am currently in my 3rd year of Bachelor of Technology (B.Tech) in Computer Science and Engineering at Dr Sudhir Chandra Sur Institute of Technology, where I am consistently working towards achieving academic excellence.
+
+### Skills
+
+- Languages: C, C++, Dart 
+- Lib/Frameworks: Flutter, Flask 
+
+### Work Experience and Open-Source Contributions
+
+- **Flutter Developer Intern at SparkTG Info. Pvt. Ltd.** (June 2022 - August 2022)
+  - Collaborated on Google charts and graphs for real-time data visualization for clients. 
+  - Designed responsive web and app dashboards with API integration for displaying data based on current and past dates and times.
+  - Developed various user-side authentication pages for mobile and web.
+- **Hacktoberfest 2021 - Open Source Contributions** (October 2021)
+  - Contributed to several Flutter open-source projects.
+
+### Projects
+
+Check out my GitHub profile at [github.com/RohanSengupta326](https://github.com/RohanSengupta326) to explore some of my personal and collaborative projects.
+
+### Contact
+
+You can reach me at [rohansengupta326@gmail.com](mailto:rohansengupta326@gmail.com) or call me at [+91 9836229804](tel:+919836229804). Let's connect and build something great together!
+
 
 
 
