@@ -11,7 +11,7 @@ Hi there! I'm Rohan, a passionate Computer Science and Engineering student curre
 
 ### Education
 
-I am currently in my 3rd year of Bachelor of Technology (B.Tech) in Computer Science and Engineering at Dr Sudhir Chandra Sur Institute of Technology.
+I am currently pursuing Bachelor of Technology (B.Tech) in Computer Science and Engineering at Dr Sudhir Chandra Sur Institute of Technology.
 
 ### Skills
 
